@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Acche Din"
+date: 2014-06-20 21:54:59 +0200
+comments: false
+categories: [acche, din]
+---
+
+Hope you all are already aware about [AccheDin](https://www.youtube.com/watch?v=Tf2lqPUyU10).
+
+We are starting this blog to keep track things about AccheDin.
+
+We will be trying to keep you always updated about AccheDin.
+
+If you would like to contribute to this Blog and wanted to write about AccheDin contact us at contact@acched.in
