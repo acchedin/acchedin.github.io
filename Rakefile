@@ -4,12 +4,12 @@ require "stringex"
 
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
-ssh_user       = "arunagw@box.rubyrockers.com"
-ssh_port       = "30000"
-document_root  = "~/acched.in/"
+ssh_user       = ""
+ssh_port       = ""
+document_root  = ""
 rsync_delete   = false
 rsync_args     = ""  # Any extra arguments to pass to rsync
-deploy_default = "rsync"
+deploy_default = "push"
 
 # This will be configured for you when you run config_deploy
 deploy_branch  = "gh-pages"
